@@ -1,6 +1,6 @@
 # MaxSumAlongTriangle
-Java Code to find the maximum sum of a path along the triangle. 
-// Max sum across a path in a triangle
+Java Code to find the maximum sum of a path along the triangle. <br>
+// Max sum across a path in a triangle <br>
 // Example :
 // Input file contains :
 //     5
